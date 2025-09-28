@@ -1,0 +1,22 @@
+# C++ build files
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/*.exe
+/*.out
+/*.obj
+/*.o
+/*.log
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Other system files
+*.swp
+*.swo
